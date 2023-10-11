@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SzlNOeRJUntXq74o8Th0g3TszmBtF547eY8JfazJsTo=",
+  "Source": "BookLendingSystem_Service",
+  "BasePath": "_content/BookLendingSystem_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

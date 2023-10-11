@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLendingSystem_Core", "BookLendingSystem_Core\BookLendingSystem_Core.csproj", "{C240CFDE-73E3-40CB-8D03-4DA2A09B71E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLendingSystem_Service", "BookLendingSystem_Service\BookLendingSystem_Service.csproj", "{63610407-A620-4891-A33A-64A291E03671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C240CFDE-73E3-40CB-8D03-4DA2A09B71E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C240CFDE-73E3-40CB-8D03-4DA2A09B71E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C240CFDE-73E3-40CB-8D03-4DA2A09B71E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C240CFDE-73E3-40CB-8D03-4DA2A09B71E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63610407-A620-4891-A33A-64A291E03671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63610407-A620-4891-A33A-64A291E03671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63610407-A620-4891-A33A-64A291E03671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63610407-A620-4891-A33A-64A291E03671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BEB6290-856B-4626-A049-64A593F3B0C9}
+	EndGlobalSection
+EndGlobal

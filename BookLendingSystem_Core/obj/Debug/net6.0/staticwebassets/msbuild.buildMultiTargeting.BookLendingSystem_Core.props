@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookLendingSystem_Core.props" />
+</Project>
